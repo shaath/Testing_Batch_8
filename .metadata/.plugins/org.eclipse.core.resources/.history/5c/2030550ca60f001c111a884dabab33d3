@@ -1,0 +1,6 @@
+package testNG_ops;
+
+public class TestNG_UserRegTC extends TestNGMaster1
+{
+
+}

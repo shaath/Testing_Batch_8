@@ -1,0 +1,13 @@
+
+<suite name="Suite">
+  <test name="EmpReg">
+    <classes>
+      <class name="testNG_ops.TestNG_EmpRegTC"/>
+    </classes>
+  </test> <!-- Test -->
+  <test name="UserReg">
+    <classes>
+     <class name="testNG_ops.TestNG_UserRegTC"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->

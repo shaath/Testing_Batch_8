@@ -1,0 +1,17 @@
+
+<suite name="Suite">
+  <test name="firefox">
+  <parameter name="browser" value="firefox"/>
+  <parameter name="plotform" value="windows"/>
+    <classes>
+      <class name="grid.GridEg2"/>
+    </classes>
+  </test> <!-- Test -->
+  <test name="chrome">
+  <parameter name="browser" value="chrome"/>
+  <parameter name="plotform" value="windows"/>
+    <classes>
+     <class name="grid.GridEg2"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
